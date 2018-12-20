@@ -1,6 +1,6 @@
 # Spring-MVC-app
 
-A Custom Relanshiop Management System app (with Spring Security, Spring MVC, Hibernate)
+A Customer Management System app (with Spring Security, Spring MVC, Hibernate)
 
 # Execute sql scripts to create customer-tracker table and security tables in sql scripts folder
 
