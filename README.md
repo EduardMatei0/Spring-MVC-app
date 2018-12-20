@@ -2,6 +2,9 @@
 
 A Custom Relanshiop Management System app (with Spring Security, Spring MVC, Hibernate)
 
+# Execute sql scripts to create customer-tracker table and security tables in sql scripts folder
+
+
 # Login with users:
        username: eduard password: fun123 (Role: Employee : can only see customer list) 
        username: alex password: fun123 ( Role : Manager : can add customer and update customer )
