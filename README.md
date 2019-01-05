@@ -1,6 +1,6 @@
 # Spring-MVC-app
 
-A Customer Management System app (with Spring Security, Spring MVC, Hibernate)
+A Customer Management System app (with Spring Security, Spring MVC, Hibernate) - a basic CRUD application
 
 Execute sql scripts to create customer-tracker table and security tables in sql scripts folder
 
@@ -11,6 +11,6 @@ Execute sql scripts to create customer-tracker table and security tables in sql 
        username: cristina password: fun123 ( Role : Admin : can add customer, update customer, delete customer )
 # You can also add a new user with role employee
 
- Uses the Service Pattern, DAO pattern and MVC pattern;
- Maven project 
- Runnable with Tomcat Server on Eclipse IDE
+ Uses the Service Pattern, DAO pattern and MVC pattern, 
+ Maven project ,
+ Runnable with Tomcat Server on Eclipse IDE .
