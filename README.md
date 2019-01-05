@@ -1,4 +1,4 @@
-# Spring-MVC-app
+# Spring-MVC-app ( CRUD application )
 
 A Customer Management System app (with Spring Security, Spring MVC, Hibernate) - a basic CRUD application
 
